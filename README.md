@@ -2,7 +2,8 @@
 
 ## Task1: Draw and animate 4 gears so that the gear ratio equals 18:1
 Assembly link:
-https://cad.onshape.com/documents/30e6cd8af80f1b3adc02ab7e/w/b14b30d53d76c842e2ddad7b/e/47b9a6c2bcfe211e3b6f9306?renderMode=0&uiState=69079a6644e622916e264f5a
-<img width="1181" height="702" alt="image" src="https://github.com/user-attachments/assets/b5f067c9-f2dd-4f71-b4a2-55034561481b" />
+https://cad.onshape.com/documents/5c567cc05403cb96f8738d96/w/1bac499fe9adf9e51fc8f79c/e/6fe20331a781f6931cccd8c5?renderMode=0&uiState=690e614f36aa9961c2fa8b36
+<img width="998" height="740" alt="image" src="https://github.com/user-attachments/assets/12cd4574-6243-4994-a33c-3342c32dd8fc" />
+
 
 ---
